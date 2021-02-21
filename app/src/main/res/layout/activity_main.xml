@@ -1,0 +1,1131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorPrimaryDark"
+    tools:context=".MainActivity">
+
+    <TableLayout
+        android:id="@+id/tableLayout"
+        android:layout_width="330dp"
+        android:layout_height="330dp"
+        android:layout_marginStart="4dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <View
+                android:id="@+id/view65"
+                android:layout_width="28dp"
+                android:layout_height="28dp"
+                android:layout_margin="1dp"
+                android:background="@android:color/darker_gray" />
+
+            <View
+                android:id="@+id/view45"
+                android:layout_width="28dp"
+                android:layout_height="28dp"
+                android:layout_margin="1dp"
+                android:background="@android:color/darker_gray" />
+
+            <View
+                android:id="@+id/view44"
+                android:layout_width="28dp"
+                android:layout_height="28dp"
+                android:layout_margin="1dp"
+                android:background="@android:color/darker_gray" />
+
+            <View
+                android:id="@+id/view28"
+                android:layout_width="28dp"
+                android:layout_height="28dp"
+                android:layout_margin="1dp"
+                android:background="@android:color/darker_gray" />
+
+            <View
+                android:id="@+id/view27"
+                android:layout_width="28dp"
+                android:layout_height="28dp"
+                android:layout_margin="1dp"
+                android:background="@android:color/darker_gray" />
+
+            <View
+                android:id="@+id/view15"
+                android:layout_width="28dp"
+                android:layout_height="28dp"
+                android:layout_margin="1dp"
+                android:background="@android:color/darker_gray" />
+
+            <View
+                android:id="@+id/view14"
+                android:layout_width="28dp"
+                android:layout_height="28dp"
+                android:layout_margin="1dp"
+                android:background="@android:color/darker_gray" />
+
+            <View
+                android:id="@+id/view6"
+                android:layout_width="28dp"
+                android:layout_height="28dp"
+                android:layout_margin="1dp"
+                android:background="@android:color/darker_gray" />
+
+            <View
+                android:id="@+id/view5"
+                android:layout_width="28dp"
+                android:layout_height="28dp"
+                android:layout_margin="1dp"
+                android:background="@android:color/darker_gray" />
+
+            <View
+                android:id="@+id/view1"
+                android:layout_width="28dp"
+                android:layout_height="28dp"
+                android:layout_margin="1dp"
+                android:background="@android:color/darker_gray" />
+
+            <View
+                android:id="@+id/view0"
+                android:layout_width="28dp"
+                android:layout_height="28dp"
+                android:layout_margin="1dp"
+                android:background="#AAAAAA" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <View
+                android:id="@+id/view66"
+                android:layout_width="28dp"
+                android:layout_height="28dp"
+                android:layout_margin="1dp"
+                android:background="@android:color/darker_gray" />
+
+            <View
+                android:id="@+id/view64"
+                android:layout_width="28dp"
+                android:layout_height="28dp"
+                android:layout_margin="1dp"
+                android:background="@android:color/darker_gray" />
+
+            <View
+                android:id="@+id/view46"
+                android:layout_width="28dp"
+                android:layout_height="28dp"
+                android:layout_margin="1dp"
+                android:background="@android:color/darker_gray" />
+
+            <View
+                android:id="@+id/view43"
+                android:layout_width="28dp"
+                android:layout_height="28dp"
+                android:layout_margin="1dp"
+                android:background="@android:color/darker_gray" />
+
+            <View
+                android:id="@+id/view29"
+                android:layout_width="28dp"
+                android:layout_height="28dp"
+                android:layout_margin="1dp"
+                android:background="@android:color/darker_gray" />
+
+            <View
+                android:id="@+id/view26"
+                android:layout_width="28dp"
+                android:layout_height="28dp"
+                android:layout_margin="1dp"
+                android:background="@android:color/darker_gray" />
+
+            <View
+                android:id="@+id/view16"
+                android:layout_width="28dp"
+                android:layout_height="28dp"
+                android:layout_margin="1dp"
+                android:background="@android:color/darker_gray" />
+
+            <View
+                android:id="@+id/view13"
+                android:layout_width="28dp"
+                android:layout_height="28dp"
+                android:layout_margin="1dp"
+                android:background="@android:color/darker_gray" />
+
+            <View
+                android:id="@+id/view7"
+                android:layout_width="28dp"
+                android:layout_height="28dp"
+                android:layout_margin="1dp"
+                android:background="@android:color/darker_gray" />
+
+            <View
+                android:id="@+id/view4"
+                android:layout_width="28dp"
+                android:layout_height="28dp"
+                android:layout_margin="1dp"
+                android:background="@android:color/darker_gray" />
+
+            <View
+                android:id="@+id/view2"
+                android:layout_width="28dp"
+                android:layout_height="28dp"
+                android:layout_margin="1dp"
+                android:background="@android:color/darker_gray" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <View
+                android:id="@+id/view84"
+                android:layout_width="28dp"
+                android:layout_height="28dp"
+                android:layout_margin="1dp"
+                android:background="@android:color/darker_gray" />
+
+            <View
+                android:id="@+id/view67"
+                android:layout_width="28dp"
+                android:layout_height="28dp"
+                android:layout_margin="1dp"
+                android:background="@android:color/darker_gray" />
+
+            <View
+                android:id="@+id/view63"
+                android:layout_width="28dp"
+                android:layout_height="28dp"
+                android:layout_margin="1dp"
+                android:background="@android:color/darker_gray" />
+
+            <View
+                android:id="@+id/view47"
+                android:layout_width="28dp"
+                android:layout_height="28dp"
+                android:layout_margin="1dp"
+                android:background="@android:color/darker_gray" />
+
+            <View
+                android:id="@+id/view42"
+                android:layout_width="28dp"
+                android:layout_height="28dp"
+                android:layout_margin="1dp"
+                android:background="@android:color/darker_gray" />
+
+            <View
+                android:id="@+id/view30"
+                android:layout_width="28dp"
+                android:layout_height="28dp"
+                android:layout_margin="1dp"
+                android:background="@android:color/darker_gray" />
+
+            <View
+                android:id="@+id/view25"
+                android:layout_width="28dp"
+                android:layout_height="28dp"
+                android:layout_margin="1dp"
+                android:background="@android:color/darker_gray" />
+
+            <View
+                android:id="@+id/view17"
+                android:layout_width="28dp"
+                android:layout_height="28dp"
+                android:layout_margin="1dp"
+                android:background="@android:color/darker_gray" />
+
+            <View
+                android:id="@+id/view12"
+                android:layout_width="28dp"
+                android:layout_height="28dp"
+                android:layout_margin="1dp"
+                android:background="@android:color/darker_gray" />
+
+            <View
+                android:id="@+id/view8"
+                android:layout_width="28dp"
+                android:layout_height="28dp"
+                android:layout_margin="1dp"
+                android:background="@android:color/darker_gray" />
+
+            <View
+                android:id="@+id/view3"
+                android:layout_width="28dp"
+                android:layout_height="28dp"
+                android:layout_margin="1dp"
+                android:background="@android:color/darker_gray" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <View
+                android:id="@+id/view85"
+                android:layout_width="28dp"
+                android:layout_height="28dp"
+                android:layout_margin="1dp"
+                android:background="@android:color/darker_gray" />
+
+            <View
+                android:id="@+id/view83"
+                android:layout_width="28dp"
+                android:layout_height="28dp"
+                android:layout_margin="1dp"
+                android:background="@android:color/darker_gray" />
+
+            <View
+                android:id="@+id/view68"
+                android:layout_width="28dp"
+                android:layout_height="28dp"
+                android:layout_margin="1dp"
+                android:background="@android:color/darker_gray" />
+
+            <View
+                android:id="@+id/view62"
+                android:layout_width="28dp"
+                android:layout_height="28dp"
+                android:layout_margin="1dp"
+                android:background="@android:color/darker_gray" />
+
+            <View
+                android:id="@+id/view48"
+                android:layout_width="28dp"
+                android:layout_height="28dp"
+                android:layout_margin="1dp"
+                android:background="@android:color/darker_gray" />
+
+            <View
+                android:id="@+id/view41"
+                android:layout_width="28dp"
+                android:layout_height="28dp"
+                android:layout_margin="1dp"
+                android:background="@android:color/darker_gray" />
+
+            <View
+                android:id="@+id/view31"
+                android:layout_width="28dp"
+                android:layout_height="28dp"
+                android:layout_margin="1dp"
+                android:background="@android:color/darker_gray" />
+
+            <View
+                android:id="@+id/view24"
+                android:layout_width="28dp"
+                android:layout_height="28dp"
+                android:layout_margin="1dp"
+                android:background="@android:color/darker_gray" />
+
+            <View
+                android:id="@+id/view18"
+                android:layout_width="28dp"
+                android:layout_height="28dp"
+                android:layout_margin="1dp"
+                android:background="@android:color/darker_gray" />
+
+            <View
+                android:id="@+id/view11"
+                android:layout_width="28dp"
+                android:layout_height="28dp"
+                android:layout_margin="1dp"
+                android:background="@android:color/darker_gray" />
+
+            <View
+                android:id="@+id/view9"
+                android:layout_width="28dp"
+                android:layout_height="28dp"
+                android:layout_margin="1dp"
+                android:background="@android:color/darker_gray" />
+
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <View
+                android:id="@+id/view99"
+                android:layout_width="28dp"
+                android:layout_height="28dp"
+                android:layout_margin="1dp"
+                android:background="@android:color/darker_gray" />
+
+            <View
+                android:id="@+id/view86"
+                android:layout_width="28dp"
+                android:layout_height="28dp"
+                android:layout_margin="1dp"
+                android:background="@android:color/darker_gray" />
+
+            <View
+                android:id="@+id/view82"
+                android:layout_width="28dp"
+                android:layout_height="28dp"
+                android:layout_margin="1dp"
+                android:background="@android:color/darker_gray" />
+
+            <View
+                android:id="@+id/view69"
+                android:layout_width="28dp"
+                android:layout_height="28dp"
+                android:layout_margin="1dp"
+                android:background="@android:color/darker_gray" />
+
+            <View
+                android:id="@+id/view61"
+                android:layout_width="28dp"
+                android:layout_height="28dp"
+                android:layout_margin="1dp"
+                android:background="@android:color/darker_gray" />
+
+            <View
+                android:id="@+id/view49"
+                android:layout_width="28dp"
+                android:layout_height="28dp"
+                android:layout_margin="1dp"
+                android:background="@android:color/darker_gray" />
+
+            <View
+                android:id="@+id/view40"
+                android:layout_width="28dp"
+                android:layout_height="28dp"
+                android:layout_margin="1dp"
+                android:background="@android:color/darker_gray" />
+
+            <View
+                android:id="@+id/view32"
+                android:layout_width="28dp"
+                android:layout_height="28dp"
+                android:layout_margin="1dp"
+                android:background="@android:color/darker_gray" />
+
+            <View
+                android:id="@+id/view23"
+                android:layout_width="28dp"
+                android:layout_height="28dp"
+                android:layout_margin="1dp"
+                android:background="@android:color/darker_gray" />
+
+            <View
+                android:id="@+id/view19"
+                android:layout_width="28dp"
+                android:layout_height="28dp"
+                android:layout_margin="1dp"
+                android:background="@android:color/darker_gray" />
+
+            <View
+                android:id="@+id/view10"
+                android:layout_width="28dp"
+                android:layout_height="28dp"
+                android:layout_margin="1dp"
+                android:background="@android:color/darker_gray" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <View
+                android:id="@+id/view100"
+                android:layout_width="28dp"
+                android:layout_height="28dp"
+                android:layout_margin="1dp"
+                android:background="@android:color/darker_gray" />
+
+            <View
+                android:id="@+id/view98"
+                android:layout_width="28dp"
+                android:layout_height="28dp"
+                android:layout_margin="1dp"
+                android:background="@android:color/darker_gray" />
+
+            <View
+                android:id="@+id/view87"
+                android:layout_width="28dp"
+                android:layout_height="28dp"
+                android:layout_margin="1dp"
+                android:background="@android:color/darker_gray" />
+
+            <View
+                android:id="@+id/view81"
+                android:layout_width="28dp"
+                android:layout_height="28dp"
+                android:layout_margin="1dp"
+                android:background="@android:color/darker_gray" />
+
+            <View
+                android:id="@+id/view70"
+                android:layout_width="28dp"
+                android:layout_height="28dp"
+                android:layout_margin="1dp"
+                android:background="@android:color/darker_gray" />
+
+            <View
+                android:id="@+id/view60"
+                android:layout_width="28dp"
+                android:layout_height="28dp"
+                android:layout_margin="1dp"
+                android:background="@android:color/darker_gray" />
+
+            <View
+                android:id="@+id/view50"
+                android:layout_width="28dp"
+                android:layout_height="28dp"
+                android:layout_margin="1dp"
+                android:background="@android:color/darker_gray" />
+
+            <View
+                android:id="@+id/view39"
+                android:layout_width="28dp"
+                android:layout_height="28dp"
+                android:layout_margin="1dp"
+                android:background="@android:color/darker_gray" />
+
+            <View
+                android:id="@+id/view33"
+                android:layout_width="28dp"
+                android:layout_height="28dp"
+                android:layout_margin="1dp"
+                android:background="@android:color/darker_gray" />
+
+            <View
+                android:id="@+id/view22"
+                android:layout_width="28dp"
+                android:layout_height="28dp"
+                android:layout_margin="1dp"
+                android:background="@android:color/darker_gray" />
+
+            <View
+                android:id="@+id/view20"
+                android:layout_width="28dp"
+                android:layout_height="28dp"
+                android:layout_margin="1dp"
+                android:background="@android:color/darker_gray" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <View
+                android:id="@+id/view110"
+                android:layout_width="28dp"
+                android:layout_height="28dp"
+                android:layout_margin="1dp"
+                android:background="@android:color/darker_gray" />
+
+            <View
+                android:id="@+id/view101"
+                android:layout_width="28dp"
+                android:layout_height="28dp"
+                android:layout_margin="1dp"
+                android:background="@android:color/darker_gray" />
+
+            <View
+                android:id="@+id/view97"
+                android:layout_width="28dp"
+                android:layout_height="28dp"
+                android:layout_margin="1dp"
+                android:background="@android:color/darker_gray" />
+
+            <View
+                android:id="@+id/view88"
+                android:layout_width="28dp"
+                android:layout_height="28dp"
+                android:layout_margin="1dp"
+                android:background="@android:color/darker_gray" />
+
+            <View
+                android:id="@+id/view80"
+                android:layout_width="28dp"
+                android:layout_height="28dp"
+                android:layout_margin="1dp"
+                android:background="@android:color/darker_gray" />
+
+            <View
+                android:id="@+id/view71"
+                android:layout_width="28dp"
+                android:layout_height="28dp"
+                android:layout_margin="1dp"
+                android:background="@android:color/darker_gray" />
+
+            <View
+                android:id="@+id/view59"
+                android:layout_width="28dp"
+                android:layout_height="28dp"
+                android:layout_margin="1dp"
+                android:background="@android:color/darker_gray" />
+
+            <View
+                android:id="@+id/view51"
+                android:layout_width="28dp"
+                android:layout_height="28dp"
+                android:layout_margin="1dp"
+                android:background="@android:color/darker_gray" />
+
+            <View
+                android:id="@+id/view38"
+                android:layout_width="28dp"
+                android:layout_height="28dp"
+                android:layout_margin="1dp"
+                android:background="@android:color/darker_gray" />
+
+            <View
+                android:id="@+id/view34"
+                android:layout_width="28dp"
+                android:layout_height="28dp"
+                android:layout_margin="1dp"
+                android:background="@android:color/darker_gray" />
+
+            <View
+                android:id="@+id/view21"
+                android:layout_width="28dp"
+                android:layout_height="28dp"
+                android:layout_margin="1dp"
+                android:background="@android:color/darker_gray" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <View
+                android:id="@+id/view111"
+                android:layout_width="28dp"
+                android:layout_height="28dp"
+                android:layout_margin="1dp"
+                android:background="@android:color/darker_gray" />
+
+            <View
+                android:id="@+id/view109"
+                android:layout_width="28dp"
+                android:layout_height="28dp"
+                android:layout_margin="1dp"
+                android:background="@android:color/darker_gray" />
+
+            <View
+                android:id="@+id/view102"
+                android:layout_width="28dp"
+                android:layout_height="28dp"
+                android:layout_margin="1dp"
+                android:background="@android:color/darker_gray" />
+
+            <View
+                android:id="@+id/view96"
+                android:layout_width="28dp"
+                android:layout_height="28dp"
+                android:layout_margin="1dp"
+                android:background="@android:color/darker_gray" />
+
+            <View
+                android:id="@+id/view89"
+                android:layout_width="28dp"
+                android:layout_height="28dp"
+                android:layout_margin="1dp"
+                android:background="@android:color/darker_gray" />
+
+            <View
+                android:id="@+id/view79"
+                android:layout_width="28dp"
+                android:layout_height="28dp"
+                android:layout_margin="1dp"
+                android:background="@android:color/darker_gray" />
+
+            <View
+                android:id="@+id/view72"
+                android:layout_width="28dp"
+                android:layout_height="28dp"
+                android:layout_margin="1dp"
+                android:background="@android:color/darker_gray" />
+
+            <View
+                android:id="@+id/view58"
+                android:layout_width="28dp"
+                android:layout_height="28dp"
+                android:layout_margin="1dp"
+                android:background="@android:color/darker_gray" />
+
+            <View
+                android:id="@+id/view52"
+                android:layout_width="28dp"
+                android:layout_height="28dp"
+                android:layout_margin="1dp"
+                android:background="@android:color/darker_gray" />
+
+            <View
+                android:id="@+id/view37"
+                android:layout_width="28dp"
+                android:layout_height="28dp"
+                android:layout_margin="1dp"
+                android:background="@android:color/darker_gray" />
+
+            <View
+                android:id="@+id/view35"
+                android:layout_width="28dp"
+                android:layout_height="28dp"
+                android:layout_margin="1dp"
+                android:background="@android:color/darker_gray" />
+
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <View
+                android:id="@+id/view117"
+                android:layout_width="28dp"
+                android:layout_height="28dp"
+                android:layout_margin="1dp"
+                android:background="@android:color/darker_gray" />
+
+            <View
+                android:id="@+id/view112"
+                android:layout_width="28dp"
+                android:layout_height="28dp"
+                android:layout_margin="1dp"
+                android:background="@android:color/darker_gray" />
+
+            <View
+                android:id="@+id/view108"
+                android:layout_width="28dp"
+                android:layout_height="28dp"
+                android:layout_margin="1dp"
+                android:background="@android:color/darker_gray" />
+
+            <View
+                android:id="@+id/view103"
+                android:layout_width="28dp"
+                android:layout_height="28dp"
+                android:layout_margin="1dp"
+                android:background="@android:color/darker_gray" />
+
+            <View
+                android:id="@+id/view95"
+                android:layout_width="28dp"
+                android:layout_height="28dp"
+                android:layout_margin="1dp"
+                android:background="@android:color/darker_gray" />
+
+            <View
+                android:id="@+id/view90"
+                android:layout_width="28dp"
+                android:layout_height="28dp"
+                android:layout_margin="1dp"
+                android:background="@android:color/darker_gray" />
+
+            <View
+                android:id="@+id/view78"
+                android:layout_width="28dp"
+                android:layout_height="28dp"
+                android:layout_margin="1dp"
+                android:background="@android:color/darker_gray" />
+
+            <View
+                android:id="@+id/view73"
+                android:layout_width="28dp"
+                android:layout_height="28dp"
+                android:layout_margin="1dp"
+                android:background="@android:color/darker_gray" />
+
+            <View
+                android:id="@+id/view57"
+                android:layout_width="28dp"
+                android:layout_height="28dp"
+                android:layout_margin="1dp"
+                android:background="@android:color/darker_gray" />
+
+            <View
+                android:id="@+id/view53"
+                android:layout_width="28dp"
+                android:layout_height="28dp"
+                android:layout_margin="1dp"
+                android:background="@android:color/darker_gray" />
+
+            <View
+                android:id="@+id/view36"
+                android:layout_width="28dp"
+                android:layout_height="28dp"
+                android:layout_margin="1dp"
+                android:background="@android:color/darker_gray" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <View
+                android:id="@+id/view118"
+                android:layout_width="28dp"
+                android:layout_height="28dp"
+                android:layout_margin="1dp"
+                android:background="@android:color/darker_gray" />
+
+            <View
+                android:id="@+id/view116"
+                android:layout_width="28dp"
+                android:layout_height="28dp"
+                android:layout_margin="1dp"
+                android:background="@android:color/darker_gray" />
+
+            <View
+                android:id="@+id/view113"
+                android:layout_width="28dp"
+                android:layout_height="28dp"
+                android:layout_margin="1dp"
+                android:background="@android:color/darker_gray" />
+
+            <View
+                android:id="@+id/view107"
+                android:layout_width="28dp"
+                android:layout_height="28dp"
+                android:layout_margin="1dp"
+                android:background="@android:color/darker_gray" />
+
+            <View
+                android:id="@+id/view104"
+                android:layout_width="28dp"
+                android:layout_height="28dp"
+                android:layout_margin="1dp"
+                android:background="@android:color/darker_gray" />
+
+            <View
+                android:id="@+id/view94"
+                android:layout_width="28dp"
+                android:layout_height="28dp"
+                android:layout_margin="1dp"
+                android:background="@android:color/darker_gray" />
+
+            <View
+                android:id="@+id/view91"
+                android:layout_width="28dp"
+                android:layout_height="28dp"
+                android:layout_margin="1dp"
+                android:background="@android:color/darker_gray" />
+
+            <View
+                android:id="@+id/view77"
+                android:layout_width="28dp"
+                android:layout_height="28dp"
+                android:layout_margin="1dp"
+                android:background="@android:color/darker_gray" />
+
+            <View
+                android:id="@+id/view74"
+                android:layout_width="28dp"
+                android:layout_height="28dp"
+                android:layout_margin="1dp"
+                android:background="@android:color/darker_gray" />
+
+            <View
+                android:id="@+id/view56"
+                android:layout_width="28dp"
+                android:layout_height="28dp"
+                android:layout_margin="1dp"
+                android:background="@android:color/darker_gray" />
+
+            <View
+                android:id="@+id/view54"
+                android:layout_width="28dp"
+                android:layout_height="28dp"
+                android:layout_margin="1dp"
+                android:background="@android:color/darker_gray" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <View
+                android:id="@+id/view120"
+                android:layout_width="28dp"
+                android:layout_height="28dp"
+                android:layout_margin="1dp"
+                android:background="@android:color/darker_gray" />
+
+            <View
+                android:id="@+id/view119"
+                android:layout_width="28dp"
+                android:layout_height="28dp"
+                android:layout_margin="1dp"
+                android:background="@android:color/darker_gray" />
+
+            <View
+                android:id="@+id/view115"
+                android:layout_width="28dp"
+                android:layout_height="28dp"
+                android:layout_margin="1dp"
+                android:background="@android:color/darker_gray" />
+
+            <View
+                android:id="@+id/view114"
+                android:layout_width="28dp"
+                android:layout_height="28dp"
+                android:layout_margin="1dp"
+                android:background="@android:color/darker_gray" />
+
+            <View
+                android:id="@+id/view106"
+                android:layout_width="28dp"
+                android:layout_height="28dp"
+                android:layout_margin="1dp"
+                android:background="@android:color/darker_gray" />
+
+            <View
+                android:id="@+id/view105"
+                android:layout_width="28dp"
+                android:layout_height="28dp"
+                android:layout_margin="1dp"
+                android:background="@android:color/darker_gray" />
+
+            <View
+                android:id="@+id/view93"
+                android:layout_width="28dp"
+                android:layout_height="28dp"
+                android:layout_margin="1dp"
+                android:background="@android:color/darker_gray" />
+
+            <View
+                android:id="@+id/view92"
+                android:layout_width="28dp"
+                android:layout_height="28dp"
+                android:layout_margin="1dp"
+                android:background="@android:color/darker_gray" />
+
+            <View
+                android:id="@+id/view76"
+                android:layout_width="28dp"
+                android:layout_height="28dp"
+                android:layout_margin="1dp"
+                android:background="@android:color/darker_gray" />
+
+            <View
+                android:id="@+id/view75"
+                android:layout_width="28dp"
+                android:layout_height="28dp"
+                android:layout_margin="1dp"
+                android:background="@android:color/darker_gray" />
+
+            <View
+                android:id="@+id/view55"
+                android:layout_width="28dp"
+                android:layout_height="28dp"
+                android:layout_margin="1dp"
+                android:background="@android:color/darker_gray" />
+        </TableRow>
+    </TableLayout>
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="10dp"
+        android:text="@string/text1"
+        android:textSize="20sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/tableLayout" />
+
+    <View
+        android:id="@+id/viewSelectColor"
+        android:layout_width="28dp"
+        android:layout_height="28dp"
+        android:layout_margin="1dp"
+        android:background="@android:color/darker_gray"
+        app:layout_constraintStart_toEndOf="@+id/textView"
+        app:layout_constraintTop_toBottomOf="@+id/tableLayout" />
+
+    <TableLayout
+        android:id="@+id/tableLayout3"
+        android:layout_width="409dp"
+        android:layout_height="65dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="16dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/viewSelectColor">
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <View
+                android:id="@+id/viewColor0"
+                android:layout_width="28dp"
+                android:layout_height="28dp"
+                android:layout_margin="1dp"
+                android:background="#FF0000"
+                android:onClick="SelectColor" />
+
+            <View
+                android:id="@+id/viewColor1"
+                android:layout_width="28dp"
+                android:layout_height="28dp"
+                android:layout_margin="1dp"
+                android:background="#FFA500"
+                android:onClick="SelectColor" />
+
+            <View
+                android:id="@+id/viewColor2"
+                android:layout_width="28dp"
+                android:layout_height="28dp"
+                android:layout_margin="1dp"
+                android:background="#FFFF00"
+                android:onClick="SelectColor" />
+
+            <View
+                android:id="@+id/viewColor3"
+                android:layout_width="28dp"
+                android:layout_height="28dp"
+                android:layout_margin="1dp"
+                android:background="#CCFF00"
+                android:onClick="SelectColor" />
+
+            <View
+                android:id="@+id/viewColor4"
+                android:layout_width="28dp"
+                android:layout_height="28dp"
+                android:layout_margin="1dp"
+                android:background="#00FF00"
+                android:onClick="SelectColor" />
+
+            <View
+                android:id="@+id/viewColor5"
+                android:layout_width="28dp"
+                android:layout_height="28dp"
+                android:layout_margin="1dp"
+                android:background="#00FFFF"
+                android:onClick="SelectColor" />
+
+            <View
+                android:id="@+id/viewColor12"
+                android:layout_width="28dp"
+                android:layout_height="28dp"
+                android:layout_margin="1dp"
+                android:background="#FFFFFF"
+                android:onClick="SelectColor" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <View
+                android:id="@+id/viewColor6"
+                android:layout_width="28dp"
+                android:layout_height="28dp"
+                android:layout_margin="1dp"
+                android:background="#0000FF"
+                android:onClick="SelectColor" />
+
+            <View
+                android:id="@+id/viewColor7"
+                android:layout_width="28dp"
+                android:layout_height="28dp"
+                android:layout_margin="1dp"
+                android:background="#007FFF"
+                android:onClick="SelectColor" />
+
+            <View
+                android:id="@+id/viewColor8"
+                android:layout_width="28dp"
+                android:layout_height="28dp"
+                android:layout_margin="1dp"
+                android:background="#FF007F"
+                android:onClick="SelectColor" />
+
+            <View
+                android:id="@+id/viewColor9"
+                android:layout_width="28dp"
+                android:layout_height="28dp"
+                android:layout_margin="1dp"
+                android:background="#FF00FF"
+                android:onClick="SelectColor" />
+
+            <View
+                android:id="@+id/viewColor10"
+                android:layout_width="28dp"
+                android:layout_height="28dp"
+                android:layout_margin="1dp"
+                android:background="#8B00FF"
+                android:onClick="SelectColor" />
+
+            <View
+                android:id="@+id/viewColor11"
+                android:layout_width="28dp"
+                android:layout_height="28dp"
+                android:layout_margin="1dp"
+                android:background="@android:color/darker_gray"
+                android:onClick="SelectColor" />
+
+        </TableRow>
+
+    </TableLayout>
+
+    <Button
+        android:id="@+id/ClearButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="10dp"
+        android:onClick="ClearLED"
+        android:text="@string/ClearButton"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/tableLayout3" />
+
+    <Button
+        android:id="@+id/ConnectButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:onClick="Connect"
+        android:text="@string/BlueTooth"
+        app:layout_constraintStart_toEndOf="@+id/ClearButton"
+        app:layout_constraintTop_toBottomOf="@+id/tableLayout3" />
+
+    <Button
+        android:id="@+id/RefreshButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:onClick="Refresh"
+        android:text="@string/button"
+        app:layout_constraintStart_toEndOf="@+id/ConnectButton"
+        app:layout_constraintTop_toBottomOf="@+id/tableLayout3" />
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:onClick="saveLED"
+        android:text="@string/Savebutton"
+        app:layout_constraintStart_toStartOf="@+id/ClearButton"
+        app:layout_constraintTop_toBottomOf="@+id/ClearButton" />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:onClick="LoadLED"
+        android:text="@string/Loadbutton"
+        app:layout_constraintStart_toStartOf="@+id/ConnectButton"
+        app:layout_constraintTop_toBottomOf="@+id/ConnectButton" />
+
+    <EditText
+        android:id="@+id/editText"
+        android:layout_width="148dp"
+        android:layout_height="48dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:ems="10"
+        android:hint="Name"
+        android:inputType="textPersonName"
+        app:layout_constraintStart_toEndOf="@+id/button2"
+        app:layout_constraintTop_toBottomOf="@+id/RefreshButton"
+        android:autofillHints="" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">NeoPixel</string>
+    <string name="textview">TextView</string>
+    <string name="text1">"目前顏色   "</string>
+    <string name="ClearButton">清除LED</string>
+    <string name="BlueTooth">藍牙連線</string>
+    <string name="btstate">000</string>
+    <string name="device">123123</string>
+    <string name="button">更新LED</string>
+    <string name="Savebutton">儲存</string>
+    <string name="Loadbutton">讀取/編輯</string>
+    <string name="LoadBtn">讀取</string>
+</resources>
